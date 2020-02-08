@@ -1,2 +1,4 @@
 name: Shikha Singh
 markdown: kramdown
+
+permalink: /blogs/:year/:month/:day/:title
